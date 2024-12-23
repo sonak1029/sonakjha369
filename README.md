@@ -21,8 +21,8 @@ I love exploring technologies, solving coding challenges, and building user-frie
 
 ## 📫 Connect with Me  
 - 📧 **Email:** sonakjha369@gmail.com  
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/sonak-jha)  
-- 🖥️ [**GitHub Profile**](https://github.com/sonakjha369)  
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/sonak-jha7692/)
+- 🖥️ [**GitHub Profile**](https://github.com/sonak1029/sonakjha369)
 
 ---
 
