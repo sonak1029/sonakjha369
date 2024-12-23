@@ -26,8 +26,8 @@ I love exploring technologies, solving coding challenges, and building user-frie
 
 ---
 
-## 🏆 GitHub Stats  
-![Sonak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonakjha369&show_icons=true&theme=radical)  
+🏆 **GitHub Stats**  
+![Sonak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonak1029&show_icons=true&theme=dark)
 
 ## 💡 Fun Fact  
 I believe in constant learning and teamwork, and I love playing cricket and football to refresh my mind! 🏏⚽  
