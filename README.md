@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonak Jha
 
-![sonak_image](https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c)
+![sonak_image](https://github.com/user-attachments/assets/31c48c8c-eecb-4d0f-b322-c8edf46bfe0c =150x150)
 
 ### 🚀 Aspiring Software Engineer | Passionate about Code & Technology  
 I’m a software engineering enthusiast with a passion for exploring new technologies, solving coding challenges, and building scalable applications. I enjoy collaborating on exciting projects that push the boundaries of innovation.
