@@ -1,33 +1,45 @@
-# 👋 Hi, I'm Sonak Jha  
+# 👋 Hi, I'm Sonak Jha
 
-### 🚀 Aspiring Software Engineer  
-I love exploring technologies, solving coding challenges, and building user-friendly applications. Let's connect and collaborate on exciting projects!  
+![Sonak's Profile Picture](https://github.com/sonak1029/sonakjha369/blob/main/path_to_your_image.jpg)
+
+### 🚀 Aspiring Software Engineer | Passionate about Code & Technology  
+I’m a software engineering enthusiast with a passion for exploring new technologies, solving coding challenges, and building scalable applications. I enjoy collaborating on exciting projects that push the boundaries of innovation.
 
 ---
 
-## 🌟 Skills  
-- **Programming Languages:** C, C++  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** MySQL  
+## 🌟 Skills
+
+- **Programming Languages:** C, C++, Python  
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub  
+- **Tools & Frameworks:** GitHub Actions, Visual Studio Code
 
 ---
 
-## 🔥 What I'm Currently Learning  
-- Full Stack Web Development (React.js, Angular)  
-- Data Structures and Algorithms (DSA)  
+## 🔥 Current Focus Areas
+
+- **Full Stack Web Development:** React.js, Angular, Node.js
+- **Data Structures and Algorithms:** Improving problem-solving skills
+- **Open Source Contribution:** Contributing to meaningful projects
 
 ---
 
-## 📫 Connect with Me  
-- 📧 **Email:** sonakjha369@gmail.com  
+## 📫 Contact Me
+
+- 📧 **Email:** [sonakjha369@gmail.com](mailto:sonakjha369@gmail.com)
 - 🌐 [**LinkedIn**](https://www.linkedin.com/in/sonak-jha7692/)
 - 🖥️ [**GitHub Profile**](https://github.com/sonak1029/sonakjha369)
 
 ---
 
-🏆 **GitHub Stats**  
+## 🏆 GitHub Stats
+
 ![Sonak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonak1029&show_icons=true&theme=dark)
 
-## 💡 Fun Fact  
-I believe in constant learning and teamwork, and I love playing cricket and football to refresh my mind! 🏏⚽  
+## 💡 Fun Fact
+I’m a firm believer in constant learning and teamwork. When I’m not coding, you’ll find me on the field playing cricket or football! 🏏⚽
+
+---
+
+> **“The journey of a thousand miles begins with a single step.”**
