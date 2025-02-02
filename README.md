@@ -9,7 +9,7 @@ I’m a software engineering enthusiast with a passion for exploring new technol
 
 ## 🌟 Skills
 
-- **Programming Languages:** C, C++, Python  
+- **Programming Languages:** C, C++
 - **Web Development:** HTML, CSS, JavaScript
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub  
@@ -21,7 +21,6 @@ I’m a software engineering enthusiast with a passion for exploring new technol
 
 - **Full Stack Web Development:** React.js, Angular, Node.js
 - **Data Structures and Algorithms:** Improving problem-solving skills
-- **Open Source Contribution:** Contributing to meaningful projects
 
 ---
 
